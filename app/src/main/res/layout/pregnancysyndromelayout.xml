@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<ScrollView
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+<LinearLayout
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <ImageView
+        android:layout_width="wrap_content"
+        android:src="@drawable/pregnantlady"
+        android:layout_height="200dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="غثيان الصباح "
+        android:textColor="@color/darkblue"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:id="@+id/PregnancyVomiting"
+        android:text="خط اختبار "
+        android:textSize="20sp"
+        android:layout_gravity="end"
+        android:textStyle="bold"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:text="مشاكل البشرة "
+        android:textColor="@color/darkblue"
+        android:textSize="30sp"
+        android:layout_gravity="center"
+        android:textStyle="bold"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:id="@+id/skinProblems"
+        android:text="خط اختبار "
+        android:textSize="20sp"
+        android:layout_gravity="end"
+        android:textStyle="bold"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:text="الرغبه الشديدة فى تناول نوع من الطعام "
+        android:textColor="@color/darkblue"
+        android:textSize="30sp"
+        android:layout_gravity="center"
+        android:textStyle="bold"
+        android:layout_height="wrap_content"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:id="@+id/FoodProblems"
+        android:text="خط اختبار "
+        android:textSize="20sp"
+        android:layout_gravity="end"
+        android:textStyle="bold"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:text="عدد نبضات القلب"
+        android:textColor="@color/darkblue"
+        android:textSize="30sp"
+        android:layout_gravity="center"
+        android:textStyle="bold"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:id="@+id/HeartText"
+        android:text="خط اختبار "
+        android:textSize="20sp"
+        android:layout_gravity="end"
+        android:textStyle="bold"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:text="ارتفاع و شكل البطن"
+        android:textColor="@color/darkblue"
+        android:textSize="30sp"
+        android:layout_gravity="center"
+        android:textStyle="bold"
+        android:layout_height="wrap_content"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:text="خط اختبار "
+        android:id="@+id/TummyText"
+        android:textSize="20sp"
+        android:layout_gravity="end"
+        android:textStyle="bold"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:layout_width="wrap_content"
+
+        android:text="لون البول "
+        android:textColor="@color/darkblue"
+        android:textSize="30sp"
+        android:layout_gravity="center"
+        android:textStyle="bold"
+        android:layout_height="wrap_content"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:id="@+id/UrineTxt"
+        android:text="خط اختبار "
+        android:textSize="20sp"
+        android:layout_gravity="end"
+        android:textStyle="bold"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:text="وضعيت نومك "
+        android:textColor="@color/darkblue"
+        android:textSize="30sp"
+        android:layout_gravity="center"
+        android:textStyle="bold"
+        android:layout_height="wrap_content"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:id="@+id/SleepingTxt"
+        android:text="خط اختبار "
+        android:textSize="20sp"
+        android:layout_gravity="end"
+        android:textStyle="bold"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:text="طول شعر الراس و الجسم "
+        android:textColor="@color/darkblue"
+        android:textSize="30sp"
+        android:layout_gravity="center"
+        android:textStyle="bold"
+        android:layout_height="wrap_content"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:id="@+id/HairAndBodyTxt"
+        android:text="خط اختبار "
+        android:textSize="20sp"
+        android:layout_gravity="end"
+        android:textStyle="bold"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:text="اختلاف فى حجم الثدى "
+        android:textColor="@color/darkblue"
+        android:textSize="30sp"
+        android:layout_gravity="center"
+        android:textStyle="bold"
+        android:layout_height="wrap_content"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:id="@+id/BreastTxt"
+        android:text="خط اختبار "
+        android:textSize="20sp"
+        android:layout_gravity="end"
+        android:textStyle="bold"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:text="الخط الاسود تحت السرة  "
+        android:textColor="@color/darkblue"
+        android:textSize="30sp"
+        android:layout_gravity="center"
+        android:textStyle="bold"
+        android:layout_height="wrap_content"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:id="@+id/BlackLineTxt"
+        android:text="خط اختبار "
+        android:textSize="20sp"
+        android:layout_gravity="end"
+        android:textStyle="bold"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:text="متى يتم معرف نوع الجنين  "
+        android:textColor="@color/darkblue"
+        android:textSize="30sp"
+        android:layout_gravity="center"
+        android:textStyle="bold"
+        android:layout_height="wrap_content"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:id="@+id/GenderPresectionTxt"
+        android:text="خط اختبار "
+        android:textSize="20sp"
+        android:layout_gravity="end"
+        android:textStyle="bold"
+        android:layout_height="wrap_content" />
+
+
+</LinearLayout>
+    </ScrollView>

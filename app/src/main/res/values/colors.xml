@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#9646e7</color>
+    <color name="colorPrimaryDark">#5104c4</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="babyblue">#86A0D2</color>
+    <color name="mediumblue">#5377BF</color>
+    <color name="darkblue">#375798</color>
+    <color name="babypink">#E8929A</color>
+    <color name="mediumpink">#DE636F</color>
+    <color name="darkpink">#C84D59</color>
+</resources>

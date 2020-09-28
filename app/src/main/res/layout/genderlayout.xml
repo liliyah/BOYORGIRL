@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_height="match_parent">
+    <TextView
+        android:layout_width="wrap_content"
+        android:textStyle="bold"
+        android:textSize="30dp"
+        android:paddingTop="20dp"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:text="من المسؤل عن تحديد نوع الجنين"
+        android:textColor="@color/darkblue"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/gendertype"
+        android:layout_gravity="end"
+        android:textStyle="bold"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:paddingTop="20dp"
+        android:paddingRight="10dp"
+        android:scrollHorizontally="false"
+        android:textSize="20dp"/>
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:textSize="20dp"
+       android:layout_gravity="end"
+        android:textStyle="bold"
+        android:paddingLeft="10dp"
+        android:text="لكن اثبتت الدراسات ايضا ان المراه لها دور فى تحديد نوع الجنين عن طريق اتباع حميه غذائيه او تحديد مواعيد التبويض او غيرها من الوسائل"
+        android:paddingTop="20dp"
+        android:paddingRight="10dp"
+        android:layout_height="wrap_content"
+        />
+    </LinearLayout>
+
+</ScrollView>
