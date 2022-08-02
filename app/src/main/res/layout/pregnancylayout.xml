@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:background="@color/white"
+    android:layout_height="match_parent">
+    <ImageView
+        android:layout_width="wrap_content"
+        android:src="@drawable/couples"
+        android:layout_height="200dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="كيف يحدث الحمل "
+        android:textAlignment="center"
+        android:textColor="@color/colorAccent"
+        android:textSize="40sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="20dp"
+        android:paddingTop="10dp"
+        android:paddingRight="20dp"
+        android:text="يمكن لمعظم النساء الحمل منذ سن البلوغ عندما تبدأ الدورة الشهرية، وحتى بداية سن اليأس، عندما تتوقف دوراتهن، يبدأ الحمل بالتخصيب، عندما تنضم بويضة المرأة مع حيوان منوي من الرجل، عادة ما يتم التخصيب في قناة فالوب، والتي تربط المبيض بالرحم، وإذا نجحت البويضة المخصبة في النزول أسفل قناة فالوب، وتم زرعها في الرحم، يبدأ الجنين بالنمو. معنى ذلك أن هناك ثلاثة مراحل أساسية يجب أن تحدث بشكل سليم، حتى يتم حدوث الحمل، وهذه المراحل هي:
+ "
+        android:textSize="20dp"
+        android:textStyle="bold" />
+<TextView
+    android:layout_width="wrap_content"
+    android:text="التبويض"
+    android:textSize="25sp"
+    android:layout_margin="5dp"
+    android:textColor="@color/darkblue"
+ android:textStyle="bold"
+android:layout_gravity="end"
+    android:layout_height="wrap_content" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:text="يتم تخزين جميع البويضات طوال فترة حياة المرأة في المبيضين، يجب العلم أن المرأة لا تستمر في إنتاج البويضات، هذا يختلف عن الرجال، الذين يصنعون باستمرار المزيد من الحيوانات المنوية، ويتم تحرير بويضة كاملة مرة كل شهر، من واحد من المبيضين، وهذا ما يسمى الإباضة، ثم تدخل البويضة إلى قناة فالوب القريبة التي تؤدي إلى الرحم.
+ "
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:paddingLeft="20dp"
+        android:paddingTop="10dp"
+        android:paddingRight="20dp"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:text="التخصيب "
+        android:layout_margin="5dp"
+        android:textSize="25sp"
+        android:textColor="@color/darkblue"
+        android:textStyle="bold"
+        android:layout_gravity="end"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:text="إذا كانت المرأة والرجل يمارسان الجماع غير المحمي، فإن الحيوان المنوي الذي يسبح في السائل المنوي، وينزل من العضو الذكري للرجل أثناء العلاقة الحميمة، قد يصل إلى البويضة في قناة فالوب لدى المرأة، وإذا اخترقت إحدى خلايا الحيوانات المنوية البويضة، فإن البويضة تُصبح الآن بويضة مُخصبة.
+ "
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:paddingLeft="20dp"
+        android:paddingTop="10dp"
+        android:paddingRight="20dp"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:text="الزرع "
+        android:textSize="25sp"
+        android:textColor="@color/darkblue"
+        android:textStyle="bold"
+        android:layout_margin="5dp"
+        android:layout_gravity="end"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:text="تستغرق البويضة عدة أيام للتنقل أسفل قناة فالوب إلى الرحم، وبعد أن تستقر في الرحم، عادة ما تعلق البويضة الملقحة (تُزرع في) بطانة الرحم، ولكن ليست كل البويضات المخصبة تنجح في الزرع في بطانة الرحم، حيث أنه إذا لم يتم إخصاب البويضة أو عدم زرعها، فإن جسم المرأة يزيل البويضة ويطردها مع أنسجة بطانة الرحم، هذا السفك يسبب النزيف الشهري للمرأة، والمعروف بـ فترة الحيض. عندما تُزرع البويضة المخصبة، يبدأ إنتاج هرمون يسمى الهرمون المشيمي البشري (HCG) في الرحم، هذا هو الهرمون الذي يقيس اختبار الحمل، ويمنع بطانة الرحم من السقوط، وبالتالي فإن المرأة لن يكون لديها فترة حيض، هناك علامات أخرى مثل تغيرات الثدي والغثيان تحدث في جسم المرأة، وهذا يعني أيضاً أن الحمل قد بدأ.
+"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:paddingLeft="20dp"
+        android:paddingTop="10dp"
+        android:paddingRight="20dp"
+        android:layout_gravity="end"
+        android:layout_height="wrap_content" />
+</LinearLayout>
+
+    </ScrollView>

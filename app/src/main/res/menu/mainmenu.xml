@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+   xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <group android:checkableBehavior="single">
+
+        <item
+            android:title="الحمل"
+            android:id="@+id/pregnancy"
+            android:icon="@drawable/ic_pregnant_woman_black_"
+             />
+
+        <item
+            android:title="من يحدد النوع"
+            android:id="@+id/gender"
+            android:icon="@drawable/ic_gender"
+            />
+
+        <item
+            android:title=" التبويض و العلاقه"
+            android:id="@+id/ovulation"
+            android:icon="@drawable/ic_ovulation"
+            />
+
+
+        <item
+            android:title="نظام غذائى"
+            android:id="@+id/diet_icon"
+            android:icon="@drawable/ic_local_diet"
+             />
+        <item
+            android:title=" الجدول الصينى "
+            android:id="@+id/chinesegender"
+            android:icon="@drawable/ic_chinses"
+            />
+
+        <item
+            android:title="افضل اوقات الحمل"
+            android:id="@+id/fertilitydays"
+            android:icon="@drawable/ic_baseline_favorite_24"
+            />
+
+        <item
+            android:title="اعراض الحمل"
+            android:id="@+id/syndrome_icon"
+            android:icon="@drawable/ic_babystroller"
+            />
+        <item
+            android:title="احلى الاسماء"
+            android:id="@+id/kids_name"
+            android:icon="@drawable/ic_baseline_face_24"
+            />
+    </group>
+
+    <item android:title="             التواصل ">
+
+
+<menu>
+            <item
+                android:title="مشاركه"
+                android:id="@+id/share"
+                android:icon="@drawable/ic_person_black_24dp"
+                />
+
+</menu>
+    </item>
+
+</menu>
